@@ -1,0 +1,10 @@
+{
+  "AccountName": "AzDOAccountName",
+  "ProjectName": "AzDOTeamProjectName",
+  "PatToken": "CREATE THIS",
+  "DeleteBehindOnlyRefsFrom": [
+    "Repo-Name-1",
+    "Repo-Name-2",
+    "Repo-Name-3"
+  ]
+}
